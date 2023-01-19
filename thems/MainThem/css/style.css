@@ -1,0 +1,15 @@
+.error {
+  color: red;
+}
+
+.form-signin{
+  max-width: 350px;
+}
+.bi{
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.mainPage{
+  background-color: #200f39;
+}

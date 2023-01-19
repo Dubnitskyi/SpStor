@@ -1,0 +1,12 @@
+.categoris-list .card{
+  text-align: center;
+  transition-duration: 0.5s;
+}
+.categoris-list  a{
+  text-decoration: none;
+  color: white;
+}
+
+.categoris-list .card:hover{
+  transform: scale(1.1);
+}
